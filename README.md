@@ -1,16 +1,65 @@
-### Hi there 👋
+### Hello my friend 👋
 
-<!--
-**sh4rkzy/sh4rkzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kaue, I'm 21 years old, currently a FullStack Developer Engineer graduated in Analysis and Systems Development, Post-Graduating in Software Engineering.
 
-Here are some ideas to get you started:
+Here I usually post study projects and solutions for everyday life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you need help, get in touch.
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/sh4rk__/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/kauecampos-/)
+
+## Soft Skills
+
+ <img align="center" alt="html5"
+    src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"/>
+   <img align="center" alt="html5"
+    src="https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=aws&logoColor=%2361DAFB"/>
+     <img align="center" alt="html5"
+    src="https://img.shields.io/badge/jwt-%2320232a.svg?style=for-the-badge&logo=jwt&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    <img align="center" alt="html5"
+    src="https://img.shields.io/badge/sql-%2320232a.svg?style=for-the-badge&logo=sql&logoColor=%2361DAFB"/>
+
+## Activity
+
+<div align="center">
+  <a href="https://github.com/sh4rkzy">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sh4rkzy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+</div><br/>
