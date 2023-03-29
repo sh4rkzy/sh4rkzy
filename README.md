@@ -61,4 +61,4 @@ If you need help, get in touch.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkzy&layout=compact&theme=gruvbox)](https://github.com/sh4rkzy/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4rkzy&show_icons=true&theme=gruvbox)
-
+![](https://komarev.com/ghpvc/?username=sh4rkzy&color=red)
