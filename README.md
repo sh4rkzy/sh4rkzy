@@ -10,6 +10,7 @@ If you need help, get in touch.
 )](https://www.instagram.com/sh4rk__/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/kauecampos-/)
+![](https://komarev.com/ghpvc/?username=sh4rkzy&color=red)
 
 ## Soft Skills
 
@@ -61,4 +62,4 @@ If you need help, get in touch.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkzy&layout=compact&theme=gruvbox)](https://github.com/sh4rkzy/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4rkzy&show_icons=true&theme=gruvbox)
-![](https://komarev.com/ghpvc/?username=sh4rkzy&color=red)
+
