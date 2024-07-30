@@ -1,50 +1,62 @@
-### Hello my friend 👋
+<h1 align="center">hey there 👋</h1>
 
-My name is Kaue, I'm 21 years old, currently a FullStack Developer Engineer graduated in Analysis and Systems Development, Post-Graduating in Software Engineering.
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkzy&layout=compact&theme=gruvbox)](https://github.com/sh4rkzy/github-readme-stats)
-## Soft Skills
+###
 
- <img align="center" alt="html5"
-    src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"/>
-   <img align="center" alt="html5"
-    src="https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=aws&logoColor=%2361DAFB"/>
-     <img align="center" alt="html5"
-    src="https://img.shields.io/badge/jwt-%2320232a.svg?style=for-the-badge&logo=jwt&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-    <img align="center" alt="html5"
-    src="https://img.shields.io/badge/sql-%2320232a.svg?style=for-the-badge&logo=sql&logoColor=%2361DAFB"/>
+<br clear="both">
+
+<p align="left">Hi, I'm Kaue, a 23-year-old FullStack Engineer with a degree in Analysis and Systems Development and currently pursuing a Post-Graduation in Software Engineering.<br><br>🐱‍👤 Software Developer since 2018<br>🔭 I’m working as a FullStack Engineer, focusing on developing and optimizing both frontend and backend solutions.<br>📚 I'm currently learning advanced techniques in cloud computing and containerization.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kauecampos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.hackerrank.com/kaueoliveirac11" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh4rkzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sh4rkzy&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
